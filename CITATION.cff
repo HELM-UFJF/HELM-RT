@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper and this repository."
+title: "HELM-RT: Regulating transformers in the holomorphic embedding load flow"
+type: software
+version: 1.0.0
+date-released: 2026-11-18
+license: MIT
+repository-code: "https://github.com/HELM-UFJF/HELM-RT"
+keywords:
+  - holomorphic embedding load flow
+  - regulating transformer
+  - phase-shifting transformer
+  - load tap changer
+  - Wynn epsilon algorithm
+  - MATLAB
+authors:
+  - family-names: Lima
+    given-names: Glaucus R. S.
+    affiliation: Federal University of Juiz de Fora
+  - family-names: Oliveira
+    given-names: Edimar J.
+    affiliation: Federal University of Juiz de Fora
+  - family-names: Oliveira
+    given-names: Leonardo W.
+    affiliation: Federal University of Juiz de Fora
