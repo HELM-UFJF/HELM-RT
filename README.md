@@ -1,5 +1,7 @@
 # HELM-RT: Regulating transformers in the holomorphic embedding load flow
 
+[![DOI](https://zenodo.org/badge/1463191471.svg)](https://doi.org/10.5281/zenodo.24354088)
+
 MATLAB code and data for the paper
 
 > G. R. S. Lima, E. J. Oliveira, and L. W. Oliveira, "Regulating Transformers as State Variables of the Holomorphic Embedding Load Flow: Joint Voltage and Active Power Flow Control with Operating Limits and Discrete Taps," submitted to *IEEE Open Access Journal of Power and Energy*, 2026.
@@ -77,7 +79,7 @@ The code is released under the MIT License (see `LICENSE`). The test system data
 
 ## Citation
 
-If you use this code, please cite the paper above and the archived code. The metadata for citing this repository are in `CITATION.cff`.
+If you use this code, please cite the paper above and the archived code ([doi:10.5281/zenodo.24354088](https://doi.org/10.5281/zenodo.24354088)). The reference will be updated after publication. The metadata for citing this repository are in `CITATION.cff`.
 
 ## Contact
 

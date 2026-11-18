@@ -4,6 +4,7 @@ title: "HELM-RT: Regulating transformers in the holomorphic embedding load flow"
 type: software
 version: 1.0.0
 date-released: 2026-11-18
+doi: 10.5281/zenodo.24354088
 license: MIT
 repository-code: "https://github.com/HELM-UFJF/HELM-RT"
 keywords:
